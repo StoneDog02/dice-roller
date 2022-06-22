@@ -1,2 +1,2 @@
-# dice-roller
+# dice-roller-react
 Created with CodeSandbox
